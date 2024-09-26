@@ -10,6 +10,7 @@
     "type": "git",
     "url": "https://github.com/LLwyct/eslint-config-outsider"
   },
+  "homepage": "https://github.com/LLwyct/eslint-config-outsider",
   "keywords": [
     "eslintconfig",
     "eslint",
