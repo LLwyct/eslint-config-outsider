@@ -1,0 +1,42 @@
+{
+  "name": "eslint-config-outsider",
+  "version": "0.0.1",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LLwyct/eslint-config-outsider"
+  },
+  "keywords": [
+    "eslintconfig",
+    "eslint",
+    "javascript",
+    "typescript",
+    "vue",
+    "react"
+  ],
+  "author": "llwyct",
+  "license": "Apache License 2.0",
+  "description": "eslint config for hybrid web",
+  "dependencies": {
+    "@rushstack/eslint-patch": "^1.10.4",
+    "@stylistic/eslint-plugin": "^2.8.0",
+    "@typescript-eslint/eslint-plugin": "^8.6.0",
+    "@typescript-eslint/parser": "^8.6.0",
+    "eslint": "^8.0.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-import-resolver-typescript": "^3.6.3",
+    "eslint-plugin-import": "^2.30.0",
+    "eslint-plugin-react": "^7.36.1",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "eslint-plugin-vue": "^9.28.0",
+    "typescript": "^5.0.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
+}
